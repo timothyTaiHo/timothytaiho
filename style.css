@@ -1,0 +1,24 @@
+#projectButton{
+color: red
+}
+
+#projects{
+display: 'none'
+}
+body{
+  background: linear-gradient(skyblue, red, skyblue);
+}
+#fep{
+  background: skyblue;
+  border: 1px solid black;
+  text-decoration: none;
+  color: red;
+}
+#bep{
+  background: skyblue;
+  border: 1px solid black;
+  position: absolute;
+  margin-top: 10;
+  text-decoration: none;
+  color: red;
+}
